@@ -1,7 +1,7 @@
 # nlp_project  
   nlp kernel technology  
 # 1 Introduction    
-## 1.1 Introduces the core modules of natural language processing.   
+## 1.1 Introduces the core modules of NLP   
   Several important contents in natural language processing：    
 (1)   Word segmentation technology    
 (2)   Part-of-speech tagging    

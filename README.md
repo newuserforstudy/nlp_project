@@ -95,7 +95,7 @@ Further Reading:
 	https://nlp.stanford.edu/links/statnlp.html#Corpora;    
 	https://www.quora.com/Datasets-What-are-the-major-text-corpora-used-by-computational-linguists-and-natural-language-processing-researchers-and-what-are-the-characteristics-biases-of-each-corpus;     
 	https://github.com/awesomedata/awesome-public-datasets#natural-language;    
-# 4.1 Chinese Corpus  
+# 4.2 Chinese Corpus  
 https://github.com/InsaneLife/ChineseNLPCorpus;    
 http://www.sogou.com/labs/resource/list_news.php;   
 https://github.com/CLUEbenchmark/CLUEDatasetSearch; 

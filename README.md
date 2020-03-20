@@ -41,14 +41,21 @@
 (13) Deep Learning(DL):CNN(AlexNet、VGG13、VGG16、VGG19、GoogLeNet Inception、ResNet)、RNN(RNN、LSTM、GRU、Bi-LSTM)
 (14) Specific algorithms for each branch。
 # 2 Framework for Deep Learning
-## 2.1 tensorflow2.0 
-## 2.2 keras 
-## 2.3 pytorch 
+## 2.1 tensorflow2.0    
+https://tensorflow.google.cn/
+## 2.2 keras   
+https://keras.io/
+## 2.3 pytorch    
+https://pytorch.org/
 ## 2.4 NLTK
+https://www.nltk.org/
 # 3 Tools for NLP
 # 3.1 jieba
+https://github.com/fxsjy/jieba
 # 3.2 gensim
+https://radimrehurek.com/gensim/
 # 3.3 sklearn 
+https://scikit-learn.org/dev/index.html
 # 4 Data for NLP 
 # 4.1 English Corpus   
 Text Classification: 

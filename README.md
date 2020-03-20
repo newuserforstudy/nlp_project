@@ -98,7 +98,8 @@ Further Reading:
 # 4.2 Chinese Corpus  
 https://github.com/InsaneLife/ChineseNLPCorpus;    
 http://www.sogou.com/labs/resource/list_news.php;   
-https://github.com/CLUEbenchmark/CLUEDatasetSearch; 
+https://github.com/CLUEbenchmark/CLUEDatasetSearch;   
+https://dumps.wikimedia.org/zhwiki/latest/
 
 
 	

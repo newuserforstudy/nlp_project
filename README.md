@@ -38,7 +38,7 @@
 (10) Bag of word(BOW)     
 (11) Word Space Model(WSM)   
 (12) Machine Learning(ML):Logistic Regression(LR)、Naive Bayes(NB)、Support Vector Machines(SVM)、BP、Random Forest(RM);Kmeans、MeanShift、DBCSAN、Spectral clustering、Hierarchical clustering、OPTICS; Principal component analysis (PCA)、Independent component analysis (ICA)   
-(13) Deep Learning(DL):CNN(AlexNet、VGG13、VGG16、VGG19、GoogLeNet Inception、ResNet)、RNN(RNN、LSTM、GRU、Bi-LSTM)
+(13) Deep Learning(DL):CNN(AlexNet、VGG13、VGG16、VGG19、GoogLeNet Inception、ResNet)、RNN(RNN、LSTM、GRU、Bi-LSTM)     
 (14) Specific algorithms for each branch。
 # 2 Framework for Deep Learning
 ## 2.1 tensorflow2.0    

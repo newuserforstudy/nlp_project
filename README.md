@@ -56,7 +56,7 @@ https://github.com/fxsjy/jieba
 https://radimrehurek.com/gensim/
 # 3.3 sklearn 
 https://scikit-learn.org/dev/index.html
-# 4 Data for NLP 
+# 4 Corpus  for NLP 
 # 4.1 English Corpus   
 Text Classification: 
 	https://trec.nist.gov/data/reuters/reuters.html;   

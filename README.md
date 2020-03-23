@@ -58,7 +58,7 @@ https://radimrehurek.com/gensim/
 https://scikit-learn.org/dev/index.html
 # 4 Corpus  for NLP 
 # 4.1 English Corpus   
-Text Classification: 
+Text Classification:    
 	https://trec.nist.gov/data/reuters/reuters.html;   
 	http://ai.stanford.edu/~amaas/data/sentiment/;     
 	http://www.cs.cornell.edu/people/pabo/movie-review-data/;    
